@@ -1,0 +1,20 @@
+[2023/07/23 23:29:05] [INFO] Sentry disabled in unofficial build. Automatic error reporting disabled.
+[2023/07/23 23:29:05] [INFO] Vehicle data network online on port 30814 with a Max of 8 Clients
+[2023/07/23 23:29:05] [INFO] Vehicle event network online
+[2023/07/23 23:29:05] [INFO] Server up-to-date!
+[2023/07/23 23:29:05] [INFO] PluginMonitor started
+[2023/07/23 23:29:11] [INFO] ALL SYSTEMS STARTED SUCCESSFULLY, EVERYTHING IS OKAY
+> exit
+[2023/07/23 23:29:23] [INFO] gracefully shutting down
+[2023/07/23 23:29:23] [INFO] please wait while all subsystems are shutting down...
+[2023/07/23 23:29:23] [INFO] Subsystem 1/8 shutting down
+[2023/07/23 23:29:23] [INFO] Subsystem 2/8 shutting down
+[2023/07/23 23:29:23] [INFO] Subsystem 3/8 shutting down
+[2023/07/23 23:29:23] [INFO] Subsystem 4/8 shutting down
+[2023/07/23 23:29:23] [INFO] Subsystem 5/8 shutting down
+[2023/07/23 23:29:23] [INFO] Subsystem 6/8 shutting down
+[2023/07/23 23:29:24] [INFO] Subsystem 7/8 shutting down
+[2023/07/23 23:29:24] [INFO] Subsystem 8/8 shutting down
+[2023/07/23 23:29:24] [INFO] If this takes too long, you can press Ctrl+C repeatedly to force a shutdown.
+[2023/07/23 23:29:24] [INFO] Shutdown.
+[2023/07/23 23:29:24] [INFO] Scoped timer: "" took 19024ms 
